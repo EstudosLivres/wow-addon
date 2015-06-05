@@ -1,0 +1,1 @@
+message('Hello WoW! Pay by Playing!')

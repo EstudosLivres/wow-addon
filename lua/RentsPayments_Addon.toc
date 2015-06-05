@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: RentsPayments, Pay by Playing
+## Author: Ilton Garcia dos Santos Silveira
+## Version: 0.1
+
+main.lua
